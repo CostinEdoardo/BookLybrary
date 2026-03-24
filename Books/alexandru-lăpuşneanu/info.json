@@ -1,0 +1,12 @@
+{
+  "title": "Alexandru Lăpuşneanu",
+  "author": "Costache Negruzzi",
+  "year": "1564 - 1569",
+  "cover": "cover.png",
+  "chapters": [
+    { "title": "Dacă voi nu mă vreți, eu vă vreu…!", "file": "chapter-1.json" },
+    { "title": "Ai să dai samă, doamnă!…", "file": "chapter-2.json" },
+    { "title": "Capul lui Moțoc vrem…", "file": "chapter-3.json" },
+    { "title": "De mă voi scula, pre mulți am să popesc și eu…", "file": "chapter-4.json" }
+  ]
+}
