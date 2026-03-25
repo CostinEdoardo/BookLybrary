@@ -1,0 +1,8 @@
+{
+  "title": "Optoelectronică și Logică Digitală",
+  "paragraphs": [
+    "Dispozitivele optoelectronice includ fotodioda și fototranzistorul (care transformă lumina în semnal electric) și LED-ul. Acestea sunt esențiale în senzori, comunicații prin fibră optică și izolatoare optice.",
+    "Algebra Booleană utilizează două stări logice: 0 (Fals) și 1 (Adevărat). Funcțiile logice pot fi exprimate prin tabele de adevăr, forme canonice (disjunctivă/conjunctivă) sau diagrame logice.",
+    "Sistemele de numerație de bază în electronică sunt binarul (baza 2) și hexazecimalul (baza 16). Codificarea informației permite procesarea datelor de către sistemele digitale."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Porți Logice și Implementare",
+  "paragraphs": [
+    "Porțile logice fundamentale sunt ȘI (AND), SAU (OR) și NU (NOT). Porțile universale ȘI-NU (NAND) și SAU-NU (NOR) pot fi utilizate pentru a construi orice altă funcție logică.",
+    "Poarta SAU-EXCLUSIV (XOR) oferă la ieșire '1' doar dacă intrările sunt diferite. Tabela de adevăr este instrumentul principal pentru verificarea funcționării oricărui circuit logic.",
+    "Implementarea funcțiilor presupune gruparea porților logice pentru a realiza o ecuație booleană specifică, reducând numărul de componente prin metode de simplificare precum diagramele Karnaugh."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Semiconductoare: Diode și Tranzistoare",
+  "paragraphs": [
+    "Dioda semiconductoare permite trecerea curentului într-un singur sens (polarizare directă). Tipurile principale includ dioda redresoare (pentru surse de alimentare), dioda Zener (stabilizatoare de tensiune) și LED-ul (emite lumină la trecerea curentului).",
+    "Aplicațiile diodelor includ redresoarele monoalternanță (elimină o semialternanță) și dublă alternanță (puntea Graetz, care transformă ambele alternanțe în curent pulsatoriu).",
+    "Tranzistorul bipolar (BJT) are trei terminale: Emitor (E), Bază (B) și Colector (C). Funcționează ca un întrerupător sau ca un amplificator, fiind controlat în curent (I_C = β * I_B).",
+    "În conexiunea Emitor Comun, tranzistorul oferă amplificare atât în tensiune, cât și în curent. Punctul Static de Funcționare (PSF) determină regimul de lucru al tranzistorului (activ, tăiere sau saturație)."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Componente Electrice Pasive și Circuite",
+  "paragraphs": [
+    "Rezistoarele sunt caracterizate de marcarea prin codul culorilor sau coduri alfanumerice. În curent continuu, circuitele cu rezistoare sunt analizate prin legea lui Ohm (U=RI) și teoremele lui Kirchhoff (∑I=0 la noduri și ∑E=∑RI pe ochiuri).",
+    "Gruparea rezistoarelor se face în serie (Rech = ΣRi) sau în paralel (1/Rech = Σ1/Ri). Legea Joule-Lenz definește căldura disipată ca fiind Q=R*I^2*t.",
+    "Condensatoarele stochează energie în câmp electric (C=Q/U). În curent continuu, acestea acționează ca un întrerupător deschis după încărcare. Gruparea lor este inversă față de rezistoare: paralel (Cp = ΣCi) și serie (1/Cs = Σ1/Ci).",
+    "Bobinele stochează energie în câmp magnetic (L) și se comportă ca un scurtcircuit în curent continuu staționar. În curent alternativ, reactanțele lor sunt XL=ωL pentru bobină și XC=1/ωC pentru condensator."
+  ]
+}

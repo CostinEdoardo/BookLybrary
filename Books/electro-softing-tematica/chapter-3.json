@@ -1,0 +1,9 @@
+{
+  "title": "Procesul de Măsurare în Tehnică",
+  "paragraphs": [
+    "Procesul de măsurare implică unități de măsură precum Amperul (A) pentru intensitate, Voltul (V) pentru tensiune, Wattul (W) pentru putere și Ohmul (Ω) pentru rezistență.",
+    "Mijloacele de măsurare pot fi analogice (cu ac indicator) sau digitale (cu afișaj numeric). Metodele de măsurare se clasifică în directe (citite pe aparat) și indirecte (calculate, ex: P=UI).",
+    "Caracteristicile metrologice includ precizia, sensibilitatea și eroarea. Eroarea absolută este definită ca diferența dintre valoarea măsurată și cea reală (Δx = x_masurat - x_adevarat).",
+    "Clasa de precizie a unui aparat indică eroarea maximă admisibilă exprimată ca procent din capătul de scală. O metodă de comparație utilizată frecvent pentru rezistențe este puntea Wheatstone."
+  ]
+}

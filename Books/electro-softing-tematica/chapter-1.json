@@ -1,0 +1,9 @@
+{
+  "title": "Electromagnetism: Câmpul și Inducția",
+  "paragraphs": [
+    "Câmpul magnetic în vid (B) se măsoară în Tesla [T] și reprezintă proprietatea spațiului de a acționa cu forțe asupra sarcinilor în mișcare. Forța Lorentz este definită de relația F=q(vxB), acționând asupra unei sarcini electrice q care se mișcă cu viteza v.",
+    "Forța Laplace (sau forța lui Ampere) acționează asupra unui conductor de lungime l parcurs de curentul I într-un câmp magnetic B, fiind dată de formula F=I(lxB). Regula mâinii stângi indică sensul acestei forțe: palma primește liniile de câmp (B), degetele sensul curentului (I), iar degetul mare sensul forței (F).",
+    "Intensitatea câmpului magnetic (H) este legată de inducție prin permeabilitatea vidului (μ0) sub forma B=μ0H. Tensiunea magnetică (Um) reprezintă integrala intensității câmpului magnetic pe un drum curbiliniu.",
+    "Fluxul magnetic (Φ) cuantifică liniile de câmp ce străpung o suprafață S, având formula Φ=B*S*cosθ. Legea inducției lui Faraday afirmă că o variație a fluxului magnetic în timp produce o tensiune electromotoare e=-dΦ/dt, unde semnul minus (Legea lui Lenz) arată că tensiunea se opune cauzei care a produs-o."
+  ]
+}

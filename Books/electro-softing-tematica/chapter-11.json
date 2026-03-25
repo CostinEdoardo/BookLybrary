@@ -1,0 +1,26 @@
+{
+  "title": "Formular Complet: Legi și Relații Matematice",
+  "paragraphs": [
+    "",
+    "Forța Lorentz: F = q(v x B) — forța asupra unei sarcini electrice în mișcare.",
+    "Forța Laplace: F = I(l x B) — forța asupra unui conductor parcurs de curent.",
+    "Fluxul magnetic: Φ = B * S * cosθ — măsoară liniile de câmp printr-o suprafață.",
+    "Legea inducției (Faraday): e = -dΦ/dt — generarea tensiunii prin variația fluxului.",
+    "Legea lui Ohm (porțiune): U = R * I — relația de bază între tensiune, rezistență și curent.",
+    "Legea lui Ohm (circuit): E = I(R + r) — include și rezistența internă a sursei.",
+    "Legea Joule-Lenz: Q = R * I^2 * t — calculul căldurii disipate de un rezistor.",
+    "Teorema I a lui Kirchhoff: ΣI_intrare = ΣI_ieșire — conservarea sarcinii în noduri.",
+    "Teorema II a lui Kirchhoff: ΣE = Σ(R * I) — echilibrul tensiunilor pe un ochi de rețea.",
+    "Grupare Rezistoare Serie: Re = R1 + R2 + ... — rezistența echivalentă crește.",
+    "Grupare Rezistoare Paralel: 1/Re = 1/R1 + 1/R2 + ... — rezistența echivalentă scade.",
+    "Grupare Condensatoare Paralel: Ce = C1 + C2 + ... — capacitatea totală crește.",
+    "Grupare Condensatoare Serie: 1/Ce = 1/C1 + 1/C2 + ... — capacitatea totală scade.",
+    "Reactanța inductivă: XL = 2πfL — opoziția bobinei în curent alternativ.",
+    "Reactanța capacitivă: XC = 1 / (2πfC) — opoziția condensatorului în curent alternativ.",
+    "Divizorul de tensiune: U2 = U_in * [R2 / (R1 + R2)] — calculul tensiunii pe o componentă serie.",
+    "Divizorul de curent: I1 = I_total * [R2 / (R1 + R2)] — distribuția curentului în paralel.",
+    "Ecuația Tranzistorului (Curenți): IE = IC + IB — suma curenților prin terminale.",
+    "Factorul de amplificare (Beta): IC = β * IB — controlul curentului de colector prin bază.",
+    "Tensiunea la borne: U = E - I * r — tensiunea reală furnizată de o sursă în sarcină."
+  ]
+}

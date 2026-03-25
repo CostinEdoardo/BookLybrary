@@ -1,0 +1,7 @@
+{
+  "title": "Surse de Curent Continuu",
+  "paragraphs": [
+    "O sursă de curent continuu este definită prin tensiunea electromotoare (E) și rezistența internă (r). Tensiunea la borne (U) este egală cu E minus căderea de tensiune internă: U = E - Ir.",
+    "Gruparea surselor în serie crește tensiunea totală (Es = n*E), în timp ce gruparea în paralel (pentru surse identice) crește capacitatea de curent și scade rezistența internă totală."
+  ]
+}

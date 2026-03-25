@@ -1,0 +1,8 @@
+{
+  "title": "Aparate de Măsură și Osciloscopul",
+  "paragraphs": [
+    "Extinderea domeniului de măsurare se face cu șunturi pentru ampermetre (montate în paralel) și cu rezistențe adiționale pentru voltmetre (montate în serie). Wattmetrul măsoară puterea activă, iar puntea Wheatstone este utilizată pentru măsurarea precisă a rezistențelor prin echilibrarea brațelor.",
+    "Osciloscopul vizualizează variația în timp a tensiunii. Pe ecran se pot măsura Amplitudinea (V), Perioada (T) și Frecvența (f = 1/T). Tipurile de semnale vizualizate pot fi sinusoidale, dreptunghiulare, triunghiulare sau în dinte de fierăstrău.",
+    "Panoul frontal al osciloscopului conține reglaje pentru axa timpului (Time/Div) și pentru axa amplitudinii (Volts/Div), permițând calibrarea imaginii pentru o citire corectă a parametrilor semnalului."
+  ]
+}

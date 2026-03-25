@@ -1,0 +1,19 @@
+{
+  "title": "Electro Softing Tematica",
+  "author": "Gemini Google",
+  "year": "2026",
+  "cover": "cover.png",
+  "chapters": [
+    { "title": "Electromagnetism: Câmpul și Inducția", "file": "chapter-1.json" },
+    { "title": "Componente Electrice Pasive și Circuite", "file": "chapter-2.json" },
+    { "title": "Procesul de Măsurare în Tehnică", "file": "chapter-3.json" },
+    { "title": "Sisteme de Reglare Automată (SRA)", "file": "chapter-4.json" },
+    { "title": "Surse de Curent Continuu", "file": "chapter-5.json" },
+    { "title": "Legile Electrocineticii și Divizoare", "file": "chapter-6.json" },
+    { "title": "Aparate de Măsură și Osciloscopul", "file": "chapter-7.json" },
+    { "title": "Semiconductoare: Diode și Tranzistoare", "file": "chapter-8.json" },
+    { "title": "Optoelectronică și Logică Digitală", "file": "chapter-9.json" },
+    { "title": "Porți Logice și Implementare", "file": "chapter-10.json" },
+    { "title": "Formular de Aur: Electrotehnică și Electronică", "file": "chapter-11.json" }
+  ]
+}

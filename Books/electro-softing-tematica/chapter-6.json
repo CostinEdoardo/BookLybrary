@@ -1,0 +1,9 @@
+{
+  "title": "Legile Electrocineticii și Divizoare",
+  "paragraphs": [
+    "Legea lui Ohm stabilește relația I = U / R, unde I este intensitatea [A], U tensiunea [V] și R rezistența [Ω]. Legea lui Joule descrie efectul termic al curentului prin formula P = R * I^2, reprezentând puterea disipată sub formă de căldură.",
+    "Teoremele lui Kirchhoff sunt esențiale pentru analiza rețelelor: Prima teoremă (a nodurilor) afirmă că suma curenților ce intră este egală cu suma celor ce ies. A doua teoremă (a ochiurilor) afirmă că în orice ochi de rețea, suma tensiunilor electromotoare este egală cu suma căderilor de tensiune (ΣE = ΣRI).",
+    "Divizorul de tensiune este un circuit serie utilizat pentru a obține o fracțiune din tensiunea de intrare: U_out = U_in * [R2 / (R1 + R2)]. Este util pentru adaptarea semnalelor de tensiune.",
+    "Divizorul de curent este un circuit paralel care distribuie curentul total între ramuri: I1 = I_total * [R2 / (R1 + R2)]. De observat că prin rezistența mai mică va trece curentul mai mare."
+  ]
+}

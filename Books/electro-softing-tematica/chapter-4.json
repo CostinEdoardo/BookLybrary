@@ -1,0 +1,9 @@
+{
+  "title": "Sisteme de Reglare Automată (SRA)",
+  "paragraphs": [
+    "Sistemele de reglare automată (SRA) au rolul de a menține o variabilă de ieșire la o valoare fixă de referință. Mărimile de bază includ intrarea (referința), reacția, abaterea (ε = i - r) și comanda.",
+    "Componentele cheie sunt traductorul (măsoară ieșirea), elementul de comparație (calculează eroarea) și regulatorul automat (decide acțiunea, ex: P, PI, PID).",
+    "Traductoarele transformă mărimile fizice în semnal electric și pot fi rezistive (PT100), inductive sau capacitive (senzori de deplasare).",
+    "Elementul de execuție primește comanda și modifică procesul fizic, putând fi de tip electric (motor), pneumatic (valvă) sau hidraulic (piston)."
+  ]
+}
